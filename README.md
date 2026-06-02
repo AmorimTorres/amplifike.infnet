@@ -18,7 +18,7 @@ O **Amplifike** é um motor de crowdfunding escrito em C# .NET 9 que demonst
 ## Como executar localmente
 ```bash
 # 1️⃣ Clone o repositório (se ainda não estiver local)
-git clone https://github.com/your-org/amplifike.git
+git clone https://github.com/AmorimTorres/amplifike.infnet.git
 cd amplifike
 
 # 2️⃣ Restaure dependências (opcional – o projeto já contém tudo)
