@@ -1,0 +1,14 @@
+/Users/dreds/pós/amplifike/bin/Debug/net9.0/Amplifike
+/Users/dreds/pós/amplifike/bin/Debug/net9.0/Amplifike.deps.json
+/Users/dreds/pós/amplifike/bin/Debug/net9.0/Amplifike.runtimeconfig.json
+/Users/dreds/pós/amplifike/bin/Debug/net9.0/Amplifike.dll
+/Users/dreds/pós/amplifike/bin/Debug/net9.0/Amplifike.pdb
+/Users/dreds/pós/amplifike/obj/Debug/net9.0/Amplifike.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dreds/pós/amplifike/obj/Debug/net9.0/Amplifike.AssemblyInfoInputs.cache
+/Users/dreds/pós/amplifike/obj/Debug/net9.0/Amplifike.AssemblyInfo.cs
+/Users/dreds/pós/amplifike/obj/Debug/net9.0/Amplifike.csproj.CoreCompileInputs.cache
+/Users/dreds/pós/amplifike/obj/Debug/net9.0/Amplifike.dll
+/Users/dreds/pós/amplifike/obj/Debug/net9.0/refint/Amplifike.dll
+/Users/dreds/pós/amplifike/obj/Debug/net9.0/Amplifike.pdb
+/Users/dreds/pós/amplifike/obj/Debug/net9.0/Amplifike.genruntimeconfig.cache
+/Users/dreds/pós/amplifike/obj/Debug/net9.0/ref/Amplifike.dll
